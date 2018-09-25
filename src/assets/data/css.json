@@ -1,0 +1,30 @@
+{  
+   "title":"Css Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What is Box-Model",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"What is Box-Sizzing?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"Explain positions in CSS?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"What is the default position?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"What is the difference between position relative and postion absolute?",
+         "answers":""
+      }
+   ]
+}

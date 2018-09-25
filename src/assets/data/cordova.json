@@ -1,0 +1,30 @@
+{  
+   "title":"Cordova Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What is the difference between phonegap and cordova?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"What is the differnce between Cordova Prepare and Cordova Build?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"What is the Plugin?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"How does Plugin works?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"Have you writern any custom plugin?",
+         "answers":""
+      }
+   ]
+}

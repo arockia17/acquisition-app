@@ -1,0 +1,175 @@
+{  
+   "title":"Javascript Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What is the lexical scope?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"What is the variable hoisting?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"What is this keyword?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"What are Closures?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"How Closures preserve the data?",
+         "answers":""
+      },
+      {  
+         "id":6,
+         "questions":"What are the drawbacks of  Closures?",
+         "answers":""
+      },
+	  {  
+         "id":7,
+         "questions":"What are Promise?",
+         "answers":""
+      },
+      {  
+         "id":8,
+         "questions":"What is Callback function?",
+         "answers":""
+      },
+      {  
+         "id":9,
+         "questions":"Different between call and apply?",
+         "answers":""
+      },
+      {  
+         "id":10,
+         "questions":"How to use bind  and where to use it?",
+         "answers":""
+      },
+      {  
+         "id":11,
+         "questions":"What are oops concepts in Js?",
+         "answers":""
+      },
+	  {  
+         "id":12,
+         "questions":"What is inheritance?",
+         "answers":""
+      },
+      {  
+         "id":13,
+         "questions":"What is Encapsulations?",
+         "answers":""
+      },
+      {  
+         "id":14,
+         "questions":"What is Prototype?",
+         "answers":""
+      },
+      {  
+         "id":15,
+         "questions":"How inheritance works in prototype?",
+         "answers":""
+      },
+      {  
+         "id":16,
+         "questions":"How to Create a Object in Js?",
+         "answers":""
+      },
+      {  
+         "id":17,
+         "questions":"What are the array methods you used?",
+         "answers":""
+      },
+      {  
+         "id":18,
+         "questions":"How setTimeout and setInterval works?",
+         "answers":""
+      },
+	  {  
+         "id":19,
+         "questions":"How does async works in Javascript?",
+         "answers":""
+      },
+      {  
+         "id":20,
+         "questions":"How to Create a Singleton in Js?",
+         "answers":""
+      },
+      {  
+         "id":21,
+         "questions":"When Callback is there why promoise is introducted?",
+         "answers":""
+      },
+      {  
+         "id":22,
+         "questions":"How can you define a function inside object?",
+         "answers":""
+      },
+      {  
+         "id":23,
+         "questions":"Write a function to find the sum and products of array? (e.g arr= [1,2,3,4])",
+         "answers":""
+      },
+      {  
+         "id":24,
+         "questions":"How do revere an array?",
+         "answers":""
+      },
+      {  
+         "id":25,
+         "questions":"How to remove a particular element in an array? arr[1,2,3,4], arr = [1,2,4]",
+         "answers":""
+      },
+      {  
+         "id":26,
+         "questions":"How can you remove the duplicate an number in an array?",
+         "answers":""
+      },
+      {  
+         "id":27,
+         "questions":"In an array how to found the second max element?",
+         "answers":""
+      },
+      {  
+         "id":28,
+         "questions":"Can you write a function for string reverse in javascript recursive?",
+         "answers":""
+      },
+	  {  
+         "id":29,
+         "questions":"Can you found the prime number in the given number?",
+         "answers":""
+      },
+	  {  
+         "id":30,
+         "questions":"Can you tell what will be the output for(var i=0;i<3;i++) { setTimeout(function() { console.log(i); }, 2000 ) }",
+         "answers":""
+      },
+      {  
+         "id":31,
+         "questions":"In the above example instead of var use let i=0, what will be the output?",
+         "answers":""
+      },
+      {  
+         "id":32,
+         "questions":"What is IIFE in javascript?",
+         "answers":""
+      },
+      {  
+         "id":33,
+         "questions":"What is Strict keyword in javascript?",
+         "answers":""
+      },
+      {  
+         "id":34,
+         "questions":"How you will compare two object in JavaScript?",
+         "answers":""
+      }
+   ]
+}

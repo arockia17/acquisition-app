@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+      <ion-card nopadding *ngFor="let list of detailList; let i=index">
+          <!-- <ion-card-header>
+            {{list.questions}}
+          </ion-card-header> -->
+          <ion-card-content>
+            {{list.questions}}
+          </ion-card-content>
+        </ion-card>
+</ion-content>
+

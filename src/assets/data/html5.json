@@ -1,0 +1,70 @@
+{  
+   "title":"HTML5 Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What is DOCTYPE?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"What will happen if i miss to mention DOCTYPe in HTML5 pages?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"What is DOM?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"What is ViewPort?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"What is metaTag?",
+         "answers":""
+      },
+      {  
+         "id":6,
+         "questions":"What are the advatages of HTML5 over older versions?",
+         "answers":""
+      },
+	  {  
+         "id":7,
+         "questions":"What are WebWorkers?",
+         "answers":""
+      },
+      {  
+         "id":8,
+         "questions":"Explain some storage in HTML5?",
+         "answers":""
+      },
+      {  
+         "id":9,
+         "questions":"What is the difference between local storage, session storage and cookies?",
+         "answers":""
+      },
+      {  
+         "id":10,
+         "questions":"When to use these storages?",
+         "answers":""
+      },
+      {  
+         "id":11,
+         "questions":"Have you worked on geolocation api?",
+         "answers":""
+      },
+	  {  
+         "id":12,
+         "questions":"How to debug the webpage?",
+         "answers":""
+      },
+      {  
+         "id":13,
+         "questions":"How to Optimize the webpage?",
+         "answers":""
+      }
+   ]
+}

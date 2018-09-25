@@ -1,0 +1,30 @@
+{  
+   "title":"Node Js Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What is Node?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"What is event loop? how it works?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"What is the concurrency model?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"What is call stack?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"What is callback Queue?",
+         "answers":""
+      }
+   ]
+}

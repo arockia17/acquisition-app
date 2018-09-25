@@ -1,0 +1,90 @@
+{  
+   "title":"Ionic Framework Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What is the difference between PhoneGap, Cordova, and Ionic?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"How do you persist data between application launches using Ionic framework?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"How do you pass data from one view to another in Ionic applications?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"How can you render a 1000 item list in Ionic, without affecting scroll performance?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"How can you detect a platform (Android or iOS) at runtime in Ionic application?",
+         "answers":""
+      },
+	  {  
+         "id":6,
+         "questions":"What is the advantage of caching the views in Ionic apps? Provide examples.",
+         "answers":""
+      },
+	  {  
+         "id":7,
+         "questions":"How can you access mobile phone native functionality in Ionic applications, for example the camera?",
+         "answers":""
+      },
+      {  
+         "id":8,
+         "questions":"How can you test Ionic applications?",
+         "answers":""
+      },
+      {  
+         "id":9,
+         "questions":"Performance of Ionic application is bad on older Android devices. Why is this, and what can be done to improve it?",
+         "answers":""
+      },
+      {  
+         "id":10,
+         "questions":"What’s the difference between 'ionic build' and 'ionic prepare'?",
+         "answers":""
+      },
+      {  
+         "id":11,
+         "questions":"What is Lazy Loading?",
+         "answers":""
+      },
+	  {  
+         "id":12,
+         "questions":"How can you convert your Ionic mobile app to PWA?",
+         "answers":""
+      },
+      {  
+         "id":13,
+         "questions":"What is PWA?",
+         "answers":""
+      },
+      {  
+         "id":14,
+         "questions":"What is a ServiceWorker?",
+         "answers":""
+      },
+      {  
+         "id":15,
+         "questions":"How do you deploy an Ionic project onto a device??",
+         "answers":""
+      },
+	  {  
+         "id":16,
+         "questions":"How to implement Push Notification in ionic app?",
+         "answers":""
+      },
+      {  
+         "id":17,
+         "questions":"How do you deploy an Ionic project onto a device??",
+         "answers":""
+      } 
+   ]
+}

@@ -1,0 +1,60 @@
+{  
+   "title":"ES6 Interview Q&A",
+   "topics":[  
+      {  
+         "id":1,
+         "questions":"What are the latest ES6 concepts you know?",
+         "answers":"ES6 refers to version 6 of the ECMA Script programming language. These are special features introduced in ES6: Default Parameters, Template Literals, Multi-line Strings,Destructuring Assignment, Enhanced Object Literals, Arrow Functions, Promises, Block-Scoped Constructs Let and Const, Classes, Modules."
+      },
+      {  
+         "id":2,
+         "questions":"What is CONST?",
+         "answers":"Constants are block-scoped, much like variables defined using the let statement. The value of a constant cannot change through reassignment, and it can't be redeclared."
+      },
+      {  
+         "id":3,
+         "questions":"What is LET?",
+         "answers":"The let statement declares a block scope local variable, optionally initializing it to a value."
+      },
+      {  
+         "id":4,
+         "questions":"What is the difference between let and var?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"What is the difference between function and arrow function?",
+         "answers":""
+      },
+      {  
+         "id":6,
+         "questions":"Where to use normal function and arrow function?",
+         "answers":""
+      },
+	  {  
+         "id":7,
+         "questions":"What is the string interpolation?",
+         "answers":""
+      },
+      {  
+         "id":8,
+         "questions":"What is the templates literals?",
+         "answers":""
+      },
+      {  
+         "id":9,
+         "questions":"What is the object literals?",
+         "answers":""
+      },
+      {  
+         "id":10,
+         "questions":"Have you used REST and SPREAD operator in javascript?",
+         "answers":""
+      },
+      {  
+         "id":11,
+         "questions":"what are Iterators and Generators in javascript?",
+         "answers":""
+      }
+   ]
+}

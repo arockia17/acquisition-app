@@ -1,0 +1,115 @@
+{  
+   "title":"MongoDB Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What are the best features of Mongodb?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"What is a ‘namespace’?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"When an object attribute is removed, is it deleted from the store?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"Are null values allowed?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"What are the disadvantages of MongoDB?",
+         "answers":""
+      },
+      {  
+         "id":6,
+         "questions":"Define MongoDB?",
+         "answers":""
+      },
+	  {  
+         "id":7,
+         "questions":"Explain replica set?",
+         "answers":""
+      },
+      {  
+         "id":8,
+         "questions":"What is sharding?",
+         "answers":""
+      },
+      {  
+         "id":9,
+         "questions":"What is Aggregation in MongoDB?",
+         "answers":""
+      },
+      {  
+         "id":10,
+         "questions":"Which syntax is used to create collection in mongodb?",
+         "answers":""
+      },
+      {  
+         "id":11,
+         "questions":"Which syntax is used to drop collection in mongodb?",
+         "answers":""
+      },
+	  {  
+         "id":12,
+         "questions":"Explain Replication?",
+         "answers":""
+      },
+      {  
+         "id":13,
+         "questions":"What is the use of Index in mongodb?",
+         "answers":""
+      },
+      {  
+         "id":14,
+         "questions":"Can we store files in mongodb?",
+         "answers":""
+      },
+      {  
+         "id":15,
+         "questions":"Which command is used for inserting a document?",
+         "answers":""
+      },
+      {  
+         "id":16,
+         "questions":"What is use of GridFS in mongodb?",
+         "answers":""
+      },
+      {  
+         "id":17,
+         "questions":"What is the use journaling?",
+         "answers":""
+      },
+      {  
+         "id":18,
+         "questions":"Define primary replica sets?",
+         "answers":""
+      },
+	  {  
+         "id":19,
+         "questions":"Which type of data mongodb store?",
+         "answers":""
+      },
+      {  
+         "id":20,
+         "questions":"What is embedded documents?",
+         "answers":""
+      },
+      {  
+         "id":21,
+         "questions":"Which command is used to create the backup of database?",
+         "answers":""
+      },
+      {  
+         "id":22,
+         "questions":"What is collection in monodb?",
+         "answers":""
+      }  
+   ]
+}

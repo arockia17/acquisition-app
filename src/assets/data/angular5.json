@@ -1,0 +1,194 @@
+{  
+   "title":"Angular 2,4,5,6 Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What’s new in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"Name the building blocks of Angular5?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"What is Transpiling in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"Which of the Angular life cycle component execution happens when a data-bound input value updates?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"Differentiate between Components and Directives in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":6,
+         "questions":"What is the use of @Input and @Output?",
+         "answers":""
+      },
+	  {  
+         "id":7,
+         "questions":"What is ng-content Directive?",
+         "answers":""
+      },
+      {  
+         "id":8,
+         "questions":"What does a router.navigate do?",
+         "answers":""
+      },
+      {  
+         "id":9,
+         "questions":"What is ViewEncapsulation?",
+         "answers":""
+      },
+      {  
+         "id":10,
+         "questions":"What are Services in Angular and what command is used to create a service?",
+         "answers":""
+      },
+      {  
+         "id":11,
+         "questions":"What is Dependency Injection in Angular4?",
+         "answers":""
+      },
+	  {  
+         "id":12,
+         "questions":"What is Routing in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":13,
+         "questions":"How to handle Events in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":14,
+         "questions":"What is a RouterOutlet?",
+         "answers":""
+      },
+      {  
+         "id":15,
+         "questions":"Explain the usage of {{}}?",
+         "answers":""
+      },
+      {  
+         "id":16,
+         "questions":"In how many ways the Data Binding can be done?",
+         "answers":""
+      },
+      {  
+         "id":17,
+         "questions":"What is the sequence of Angular Lifecycle Hooks?",
+         "answers":""
+      },
+      {  
+         "id":18,
+         "questions":"What is the purpose of using package.json in the angular project?",
+         "answers":""
+      },
+	  {  
+         "id":19,
+         "questions":"How is SPA (Single Page Application) technology different from the traditional web technology?",
+         "answers":""
+      },
+      {  
+         "id":20,
+         "questions":"What is Component in Angular Terminology?",
+         "answers":""
+      },
+      {  
+         "id":21,
+         "questions":"What are ngModel and how do we represent it?",
+         "answers":""
+      },
+      {  
+         "id":22,
+         "questions":"What does a Subscribe method do in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":23,
+         "questions":"Differentiate between Observables and Promises?",
+         "answers":""
+      },
+      {  
+         "id":24,
+         "questions":"What is an AsyncPipe in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":25,
+         "questions":"Explain Authentication and Authorization?",
+         "answers":""
+      },
+      {  
+         "id":26,
+         "questions":"What is AOT Compilation?",
+         "answers":""
+      },
+      {  
+         "id":27,
+         "questions":"What is Redux?",
+         "answers":""
+      },
+      {  
+         "id":28,
+         "questions":"What are Pipes?",
+         "answers":""
+      },
+	  {  
+         "id":29,
+         "questions":"Differentiate between ng-Class and ng-Style?",
+         "answers":""
+      },
+	  {  
+         "id":30,
+         "questions":"Why Typescript with Angular5?",
+         "answers":""
+      },
+      {  
+         "id":31,
+         "questions":"Explain Bootstrapping in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":32,
+         "questions":"Explain service workers in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":33,
+         "questions":"What are Decorators?",
+         "answers":""
+      },
+      {  
+         "id":34,
+         "questions":"List the types of Data Binding supported by Angular5?",
+         "answers":""
+      },{  
+         "id":35,
+         "questions":"Explain $event in Angular5?",
+         "answers":""
+      },
+      {  
+         "id":36,
+         "questions":"What is *ngFor directive used for?",
+         "answers":""
+      },
+      {  
+         "id":37,
+         "questions":"Explain Webpack?",
+         "answers":""
+      },
+      {  
+         "id":38,
+         "questions":"Explain component life cycle in Angular5?",
+         "answers":""
+      }
+   ]
+}

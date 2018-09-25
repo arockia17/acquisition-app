@@ -1,0 +1,181 @@
+{  
+   "title":"Angular Js 1.5 Interview Q&A",
+   "topics":[  
+      {   
+         "id":1,
+         "questions":"What is scope?",
+         "answers":""
+      },
+      {  
+         "id":2,
+         "questions":"What is the difference between scope and rootscope?",
+         "answers":""
+      },
+      {  
+         "id":3,
+         "questions":"Explain the folder structure of an angular project?",
+         "answers":""
+      },
+      {  
+         "id":4,
+         "questions":"What is the directive?",
+         "answers":""
+      },
+      {  
+         "id":5,
+         "questions":"What is two way binding?",
+         "answers":""
+      },
+      {  
+         "id":6,
+         "questions":"How two way bidning works?",
+         "answers":""
+      },
+	  {  
+         "id":7,
+         "questions":"What is service providers?",
+         "answers":""
+      },
+      {  
+         "id":8,
+         "questions":"What is factory?",
+         "answers":""
+      },
+      {  
+         "id":9,
+         "questions":"Different between factory and service?",
+         "answers":""
+      },
+      {  
+         "id":10,
+         "questions":"How will you make an Http request in angular?",
+         "answers":""
+      },
+      {  
+         "id":11,
+         "questions":"What is Digest Cycle? can you explain?",
+         "answers":""
+      },
+	  {  
+         "id":12,
+         "questions":"What is routing? How does it works?",
+         "answers":""
+      },
+      {  
+         "id":13,
+         "questions":"What is the Dependency injection?",
+         "answers":""
+      },
+      {  
+         "id":14,
+         "questions":"Have you writtern any custom directive?",
+         "answers":""
+      },
+      {  
+         "id":15,
+         "questions":"What is MVC pattern explain?",
+         "answers":""
+      },
+      {  
+         "id":16,
+         "questions":"What is angular expression?",
+         "answers":""
+      },
+      {  
+         "id":17,
+         "questions":"Different between link and compile?",
+         "answers":""
+      },
+      {  
+         "id":18,
+         "questions":"Can we have multiple ng-app in a single page?",
+         "answers":""
+      },
+	  {  
+         "id":19,
+         "questions":"Can angular(ng-app) can be nested?",
+         "answers":""
+      },
+      {  
+         "id":20,
+         "questions":"Can we have nested Controllers in angular js?",
+         "answers":""
+      },
+      {  
+         "id":21,
+         "questions":"What is bootstrap in angular?",
+         "answers":""
+      },
+      {  
+         "id":22,
+         "questions":"What is SPA? How can we implement?",
+         "answers":""
+      },
+      {  
+         "id":23,
+         "questions":"Explain service, factory and promises?",
+         "answers":""
+      },
+      {  
+         "id":24,
+         "questions":"How to use filters in angualar?",
+         "answers":""
+      },
+      {  
+         "id":25,
+         "questions":"How do you share data between controllers?",
+         "answers":""
+      },
+      {  
+         "id":26,
+         "questions":"Where should we implement the data maniplulation in angualar?",
+         "answers":""
+      },
+      {  
+         "id":27,
+         "questions":"Is it good or bad Practice to use the jQuery to use in angular?",
+         "answers":""
+      },
+      {  
+         "id":28,
+         "questions":"Explain how $scope, $apply works?",
+         "answers":""
+      },
+	  {  
+         "id":29,
+         "questions":"How would you specify that a scope variable should have one time binding only?",
+         "answers":""
+      },
+	  {  
+         "id":30,
+         "questions":"Different between one-way and two-way binding?",
+         "answers":""
+      },
+      {  
+         "id":31,
+         "questions":"Why angular.copy() so powerful?",
+         "answers":""
+      },
+      {  
+         "id":32,
+         "questions":"What is intercepter? what are common use of it?",
+         "answers":""
+      },
+      {  
+         "id":33,
+         "questions":"How do you validate Regex pattern in angualar?",
+         "answers":""
+      },
+      {  
+         "id":34,
+         "questions":"How do you maintain a state in angular?",
+         "answers":""
+      },
+      {  
+         "id":35,
+         "questions":"How do you disable a button depending on checkbox state?",
+         "answers":""
+      }
+	  
+   ]
+}
